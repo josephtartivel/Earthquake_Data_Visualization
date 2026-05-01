@@ -24,7 +24,7 @@ The dataset provides valuable information about earthquakes worldwide in the yea
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo-name.git
+   git clone https://github.com/josephtartivel/Earthquake_Data_Visualization.git
    ```
 2. Install required R packages:
    ```r
